@@ -59,13 +59,12 @@ main > .tagline {
 	padding: 10px;
 }
 
-.devto {
-	margin-bottom: -0.20rem;
+.icons-social-a {
+	text-decoration: none;
 }
 
-.devto svg {
-	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
-	width: 2.65rem;
-	height: 2.65rem;
+.icons-social-a:hover,
+.icons-social-a:active,
+.icons-social-a:focus {
+  color: #00bfff;
 }
